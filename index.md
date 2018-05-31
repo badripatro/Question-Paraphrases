@@ -1,37 +1,8 @@
-## Welcome to GitHub Pages
+## Learning Semantic Sentence Embeddings using Pair-wise Discriminator
+Badri Patro*,Vinod Kurmi*,Sandeep Kumar, Vinay P. Namboodiri
 
-You can use the [editor on GitHub](https://github.com/badripatro/Question_Paraphrases/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/badripatro/Question_Paraphrases/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### Motivation
+-   We propose a model for obtaining sentence embeddings for solving the paraphrase generation task using a pair-wise discriminator loss added to an encoder-decoder network.
+-   We show that these embeddings can also be used for the sentiment analysis task.
+-   We validate the model using standard datasets with a detailed comparison with state-of-the-art methods and also ensure that the results are statistically significant.
+### Introduction
