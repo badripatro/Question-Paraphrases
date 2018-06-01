@@ -1,5 +1,5 @@
 ## Learning Semantic Sentence Embeddings using Pair-wise Discriminator
-Badri Patro*,Vinod Kurmi*,Sandeep Kumar, Vinay P. Namboodiri
+Badri Patro* ,Vinod Kurmi* ,Sandeep Kumar, Vinay P. Namboodiri
 
 ### Motivation
 -   We propose a model for obtaining sentence embeddings for solving the paraphrase generation task using a pair-wise discriminator loss added to an encoder-decoder network.
