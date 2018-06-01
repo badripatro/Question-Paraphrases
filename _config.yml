@@ -7,9 +7,6 @@ show_downloads: ["true" or "false" to indicate whether to provide a download URL
 google_analytics: [Your Google Analytics tracking ID]
 
 
-gem "github-pages", group: :jekyll_plugins
-
-
 github:
   zip_url: http://example.com/download.zip
   another_url: another value
