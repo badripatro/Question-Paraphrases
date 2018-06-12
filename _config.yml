@@ -1,5 +1,3 @@
 theme: jekyll-theme-cayman
-titles_from_headings:
-  enabled:     false
-  strip_title: false
-  collections: false
+titles: Question-Paraphraes Paper 
+description: Feel free to book mark this
