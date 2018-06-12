@@ -1,7 +1,7 @@
 ## Learning Semantic Sentence Embeddings using Pair-wise Discriminator
 Badri N. Patro* ,Vinod K. Kurmi* ,Sandeep Kumar*, Vinay P. Namboodiri
 
-## Code are available [Repo](https://github.com/badripatro/PQG/)
+## Link for [Code](https://github.com/badripatro/PQG/)
 
 
 ## Inroduction
