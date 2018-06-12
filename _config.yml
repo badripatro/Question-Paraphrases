@@ -1,1 +1,5 @@
-theme: Cayman Blog Theme
+theme: jekyll-theme-cayman
+titles_from_headings:
+  enabled:     false
+  strip_title: false
+  collections: false
