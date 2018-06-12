@@ -3,6 +3,10 @@ Badri N. Patro* ,Vinod K. Kurmi* ,Sandeep Kumar*, Vinay P. Namboodiri
 
 ## [Code](https://github.com/badripatro/PQG/)
 
+
+
+![Result](intro.png) 
+
 ### Motivation
 -   We propose a model for obtaining sentence embeddings for solving the paraphrase generation task using a pair-wise discriminator loss added to an encoder-decoder network.
 -   We show that these embeddings can also be used for the sentiment analysis task.
