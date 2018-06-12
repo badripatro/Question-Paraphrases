@@ -6,8 +6,11 @@ Badri N. Patro* ,Vinod K. Kurmi* ,Sandeep Kumar*, Vinay P. Namboodiri
 
 
 ![Result](intro.png) 
+
 ![model](maia.png) 
+
 ![Resul](results.pdf) 
+
 
 
 
