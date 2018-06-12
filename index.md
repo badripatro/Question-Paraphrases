@@ -6,6 +6,10 @@ Badri N. Patro* ,Vinod K. Kurmi* ,Sandeep Kumar*, Vinay P. Namboodiri
 
 
 ![Result](intro.png) 
+![model](maia.png) 
+![Resul](results.pdf) 
+
+
 
 ### Motivation
 -   We propose a model for obtaining sentence embeddings for solving the paraphrase generation task using a pair-wise discriminator loss added to an encoder-decoder network.
