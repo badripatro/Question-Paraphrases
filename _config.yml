@@ -1,4 +1,10 @@
 theme: jekyll-theme-cayman
 titles: Question-Paraphraes Paper 
 description: Feel free to book mark this
-link:https://github.com/badripatro
+navbar-links:
+  About Me: "aboutme"
+  Resources:
+    - Beautiful Jekyll: "http://home.iitk.ac.in/~vinodkk/"
+    - Learn markdown: "http://home.iitk.ac.in/~vinodkk/av/"
+    - GitHub Pages: "http://home.iitk.ac.in/~vinodkk/da"
+  Author's home: "http://home.iitk.ac.in/~badri/"
