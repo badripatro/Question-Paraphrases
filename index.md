@@ -1,5 +1,5 @@
 ## Learning Semantic Sentence Embeddings using Pair-wise Discriminator
-Badri Patro* ,Vinod Kurmi* ,Sandeep Kumar, Vinay P. Namboodiri
+Badri Patro* ,Vinod Kurmi* ,Sandeep Kumar*, Vinay P. Namboodiri
 
 [Code](https://github.com/badripatro/Question-Paraphrases/)
 
