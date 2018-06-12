@@ -10,7 +10,10 @@ Badri N. Patro* ,Vinod K. Kurmi* ,Sandeep Kumar*, Vinay P. Namboodiri
 ## Main Model
 ![Result](main.png) 
 
-## Results on Sentimental Analysis
+## Results on question paraphrase generation
+![Result](results_para.png) 
+
+## Results on Sentiment Analysis
 ![Result](results_senti.png) 
 
 
