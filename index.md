@@ -7,8 +7,10 @@ Badri N. Patro* ,Vinod K. Kurmi* ,Sandeep Kumar*, Vinay P. Namboodiri
 
 ![Result](intro.png) 
 
+## Main Model
 ![model](maia.png) 
 
+## Results on Sentimental Analysis
 ![Resul](results.pdf) 
 
 
