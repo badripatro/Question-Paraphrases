@@ -17,6 +17,16 @@ Badri N. Patro* ,Vinod K. Kurmi* ,Sandeep Kumar*, Vinay P. Namboodiri
 ![Result](results_senti.png) 
 
 
+### Reference
 
+```
+@inproceedings{patro2018learning,
+  title={Learning Semantic Sentence Embeddings using Sequential Pair-wise Discriminator},
+  author={Patro, Badri Narayana and Kurmi, Vinod Kumar and Kumar, Sandeep and Namboodiri, Vinay},
+  booktitle={Proceedings of the 27th International Conference on Computational Linguistics},
+  pages={2715--2729},
+  year={2018}
+}
+```
 
 
